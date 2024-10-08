@@ -8,20 +8,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
+  - title: "Talks and Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Hall of Fame"
+    url: /hof/
+
+  - title: "Random"
+    url: /random/
     
-  - title: "Guide"
-    url: /markdown/
+
