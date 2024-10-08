@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-# Research Institutions
+## Research Institutions
 
-## Massachusetts Institute of Technology Lincoln Laboratory
+### Massachusetts Institute of Technology Lincoln Laboratory
 **Graduate Research Scientist (CO-OP) in Human Health and Performance Systems**  
 *Feb 2024 - Present, Lincoln, MA*  
 - Developing state-of-the-art AI algorithms for brain mapping based on MRI data.
@@ -19,7 +19,7 @@ redirect_from:
 - Giving clinics to neuroscientists at Massachusetts General Hospital on using AI for axon centerline detection.
 - Investigating how to reduce energy consumption in mobile AI systems.
 
-## North Carolina State University
+### North Carolina State University
 **PhD Student in Electrical Engineering**  
 *Aug 2021 - Present, Raleigh, NC*  
 Advised by Prof. Paul D. Franzon  
@@ -29,29 +29,29 @@ Advised by Prof. Paul D. Franzon
 - <span style="color: red;">Junior advisor to four PhD students.</span>
 - <span style="color: red;">Funded the research of three other PhD students.</span>
 
-## The University of Texas at Austin
+### The University of Texas at Austin
 **Bachelor of Science in Electrical Engineering**  
 *Aug 2016 - May 2021*  
 - Primary Interest: Data Science, Digital Image/Video Processing, Digital Signal Processing.
 - Received Computational Science and Engineering Certificate.
 - <span style="color: red;">Terry Foundation Scholar (full tuition and housing)</span>.
 
-# Earned Research Funding: <span style="color: red;">$313,900</span>
+## Earned Research Funding: <span style="color: red;">$313,900</span>
 
-## CISCO Research
+### CISCO Research
 **$75,000 Rapid 3DIC Thermal Modeling**  
 *Aug 16, 2024*  
 - Proposed a novel machine learning approach for thermal modeling in 3DICs, focusing on addressing the challenges of heat dissipation across multiple stacked layers.
 - Introduced the concept of using a diffusion model to transform power maps into high-resolution heat maps.
 - Second author, written with Prof. Franzon and a labmate.
 
-## LAD Student Travel Grant
+### LAD Student Travel Grant
 **$900 to present research at LLM-Aided Design**  
 *June 28, 2024*  
 - Presented research on a novel LLM adaptation technique to over 200 researchers, industry members, and tech startups.
 - Released a benchmark for LLM adaptation on microelectronic reasoning.
 
-## CAEML Research Award
+### CAEML Research Award
 **$70,000 for the development of Natural Language Optimization Models for PCBs and Analog ICs**  
 *April 28, 2024*  
 - Motivated the development of LLMs for a query-based optimizer focused on packaging and on-chip interconnect problems.
@@ -59,7 +59,7 @@ Advised by Prof. Paul D. Franzon
 - Demonstrated proof of concept via retrieval augmented generation demo.
 - Co-first author with Prof. Franzon.
 
-## Qualcomm Innovation Fellow
+### Qualcomm Innovation Fellow
 **$100,000 for the development of Reinforcement Learning Agents for 3D Floorplanning in EDA**  
 *May 03, 2023*  
 - Proposed and developed proof of concepts of novel RL algorithms for floorplanning.
@@ -67,7 +67,7 @@ Advised by Prof. Paul D. Franzon
 - Presented and defended research over 3 rounds of interviews.
 - Co-first author with a lab mate, supervised by Prof. Franzon and Prof. Xiaorui Liu.
 
-## CAEML Research Award
+### CAEML Research Award
 **$68,000 for the development of Siamese-Graph Neural Networks for Circuit Graph Isomorphism Detection**  
 *April 11, 2023*  
 - Proposed the development of SGNNs for CGI detection.
