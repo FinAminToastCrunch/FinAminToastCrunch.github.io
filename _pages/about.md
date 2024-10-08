@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome to my (mostly) research page!
 
-I am putting this page together so if you see any issues please email me :D FinAmin@mit.edu
+Hi! I am Fin, a grad student in engineering. Fun fact, my full first name is "Shafin." Shafin, in Arabic means "medical doctor"... my parents really wanted me to be a physician. I am still putting this page together so if you see any issues please email me :D 
 
 
 ------
