@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome to my (mostly) research page!
 
-I am putting this page together so if you see any issues please email me :D finamin@mit.edu
+I am putting this page together so if you see any issues please email me :D FinAmin@mit.edu
 
 
 ------
