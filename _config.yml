@@ -21,22 +21,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "images/clippedCasual.jpg"
+  name             : "Fin Amin"
+  pronouns         :  
+  bio              : "Graduate Research Scientist at MIT Lincoln Laboratory and PhD student in Electrical Engineering at NC State University."
+  location         : "USA"
+  employer         : "MIT Lincoln Laboratory"
+  uri              : https://finamintoastcrunch.github.io
+  email            : "samin2@ncsu.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?user=yJv_j1AAAAAJ&hl=en"
+  orcid            : "http://orcid.org/0000-0003-1212-4951"
+
+  pubmed           : #
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  impactstory      : # URL
   researchgate     : # URL
 
   # Repositories and software development
