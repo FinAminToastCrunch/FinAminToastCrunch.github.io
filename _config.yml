@@ -215,7 +215,7 @@ kramdown:
 collections:
   talks_and_teaching:
     output: true
-    permalink: /talks-and-teaching/:path/
+    permalink: /:collection/:path/ # /talks-and-teaching/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -224,7 +224,7 @@ collections:
     permalink: /:collection/:path/
   legendary_papers:
     output: true
-    permalink: /legendary-papers/:path/
+    permalink: /:collection/:path/ # /legendary-papers/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
