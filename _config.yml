@@ -10,11 +10,12 @@
 locale                   : "en-US"
 title                    : "Fin Amin"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Fin Amin"
+description              : &description "PhD student in Electrical Engineering specializing in AI, neural networks, and machine learning for EDA and medical applications."
+url                      : https://finamintoastcrunch.github.io # Update this to your actual GitHub Pages URL
+baseurl                  : "" # This should remain empty unless your site lives under a specific path
+repository               : "FinAminToastCrunch/FinAminToastCrunch.github.io" # Your GitHub repository
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
