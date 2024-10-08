@@ -14,10 +14,10 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Hall of Fame"
+  - title: "Legendary Papers"
     url: /hof/
 
-  - title: "Random"
-    url: /random/
+  # - title: "Random"
+  #   url: /random/
     
 
