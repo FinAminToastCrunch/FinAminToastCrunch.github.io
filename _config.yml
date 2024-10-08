@@ -1,41 +1,88 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site.
+
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fin Amin's Research Portfolio"
+title                    : "Fin Amin / Portfolio"
 title_separator          : "-"
 name                     : &name "Fin Amin"
-description              : &description "PhD candidate in Electrical Engineering at NCSU, focusing on AI, RL in EDA, and neural network calibration."
-url                      : "https://FinAmin.github.io"
+description              : &description "PhD candidate in Electrical Engineering specializing in AI, neural networks, and machine learning for EDA and medical applications."
+url                      : https://finamintoastcrunch.github.io # Update this to your GitHub Pages URL
 baseurl                  : ""
-repository               : "FinAmin/FinAmin.github.io"
+repository               : "FinAminToastCrunch/FinAminToastCrunch.github.io"
 
-# Author Details
+# Site Author
 author:
-  avatar                 : "profile.png"
-  name                   : "Fin Amin"
-  bio                    : "Graduate Research Scientist at MIT Lincoln Laboratory and PhD Candidate at NCSU, specializing in AI, RL, and neural network calibration."
-  location               : "Raleigh, NC"
-  employer               : "MIT Lincoln Laboratory"
-  uri                    : "https://FinAmin.github.io"
-  email                  : "samin2@ncsu.edu"
-  
-  # Academic and Social Links
-  googlescholar          : "https://scholar.google.com/citations?user=yJv_j1AAAAAJ&hl=en"
-  github                 : "FinAminToastCrunch"
-  linkedin               : "your-linkedin-username"  # Update this with your actual LinkedIn username if you want it linked
+  avatar           : "profile.png"
+  name             : "Fin Amin"
+  bio              : "Graduate Research Scientist at MIT Lincoln Laboratory and PhD student in Electrical Engineering at NC State University."
+  location         : "USA"
+  employer         : "MIT Lincoln Laboratory"
+  uri              : https://finamintoastcrunch.github.io
+  email            : "samin2@ncsu.edu" 
 
-# SEO Related (if you have these verifications, you can fill them in)
+  # Academic websites
+  arxiv            : 
+  googlescholar    : "https://scholar.google.com/citations?user=yJv_j1AAAAAJ&hl=en"
+  orcid            : "http://orcid.org/0000-0003-1212-4951"
+  pubmed           : 
+
+  # Repositories and software development
+  github           : "FinAminToastCrunch"
+
+  # Social media
+  linkedin         : "your-linkedin-username"
+  twitter          : "your-twitter-username"
+
+# Publication Category
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
+
+# SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Analytics (if you use Google Analytics, enter your tracking ID here)
+# Analytics
 analytics:
-  provider               : "google"
+  provider               : "google" # Update this with your choice of analytics, if needed
   google:
-    tracking_id          : "UA-XXXXXXXXX-X"
+    tracking_id          : # Your Google Analytics tracking ID
 
-# Plugins (if you use additional plugins, list them here)
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
