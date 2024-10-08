@@ -4,7 +4,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fin Amin / Portfolio"
+title                    : "Fin Amin"
 title_separator          : "-"
 name                     : &name "Fin Amin"
 description              : &description "PhD candidate in Electrical Engineering specializing in AI, neural networks, and machine learning for EDA and medical applications."
