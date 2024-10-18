@@ -224,7 +224,7 @@ collections:
     permalink: /:collection/:path/
   legendary_papers:
     output: true
-    permalink: /:collection/:path/ # /legendary-papers/:path/
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
