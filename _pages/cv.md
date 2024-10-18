@@ -1,3 +1,6 @@
 ---
-redirect_to: "https://finamintoastcrunch.github.io/assets/pdfs/Fin_CV.pdf"
+layout: page
+title: "CV"
 ---
+
+[Download my resume (PDF)](https://finamintoastcrunch.github.io/assets/pdfs/resume.pdf)
