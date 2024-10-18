@@ -1,6 +1,3 @@
 ---
-layout: page
-title: "CV"
+redirect_to: "https://finamintoastcrunch.github.io/assets/pdfs/Fin_CV.pdf"
 ---
-
-[Download my resume (PDF)](https://finamintoastcrunch.github.io/assets/pdfs/resume.pdf)
