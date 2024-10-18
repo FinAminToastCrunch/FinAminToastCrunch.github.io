@@ -26,14 +26,14 @@ author:
   name             : "Fin Amin"
   pronouns         :  
   bio              : "Intern Graduate Research Scientist at MIT Lincoln Laboratory and PhD student in Electrical Engineering."
-  location         : "USA"
+  location         : "Concord, MA"
   employer         : "MIT Lincoln Laboratory"
+  googlescholar    : "https://scholar.google.com/citations?user=yJv_j1AAAAAJ&hl=en"
   uri              : https://finamintoastcrunch.github.io
   email            : "samin2@ncsu.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=yJv_j1AAAAAJ&hl=en"
   orcid            : "http://orcid.org/0000-0003-1212-4951"
 
   pubmed           : #
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
