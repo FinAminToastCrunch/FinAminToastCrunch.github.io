@@ -12,7 +12,7 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /_pages/cv/
 
   - title: "Legendary Papers"
     url: /legendary-papers/

@@ -210,7 +210,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # These settings control the types of collections used by the template
 collections:
   talks_and_teaching:
@@ -225,6 +224,10 @@ collections:
   legendary_papers:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /cv/:path/  # Assuming you might have multiple documents related to CV in the future
+
 
 # These settings control how pages and collections are included in the site
 defaults:
