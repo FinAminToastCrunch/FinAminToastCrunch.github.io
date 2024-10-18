@@ -2,6 +2,7 @@
 layout: page
 title: "Legendary Papers"
 permalink: /legendary-papers/
+author_profile: true
 ---
 
 # Legendary Papers
