@@ -11,7 +11,7 @@ author_profile: true
 
 ## Papers
 Welcome to my list of legendary papers. If a paper is in this list, it means it guides my intuition or writing style. You might see some highly popular papers missing from here (e.g. you won't see *Attention is All You Need*). This doesn't mean that they are not relevant to me or they are bad papers--it's just that it did not *change the way I think*. I am not done finishing this list. I expect it to contain roughly 70 papers once I am done. My relationship with any of the authors here bears no impact on my assessment. 
-<!-- 
+{% comment %}
 TODO add: convnext, knowledge distillation, lora, protoypical networks, ECE, the lottery ticket hypothesis, style vectors for llms, decision transformers, RL in large action spaces, distilling human priors, td3, HER, goal conditioned sl, MAML, incoherence of the philo, detection and estimation theory van trees, complex analysis stein, sirl, getting aligned on alignment, can you turst your model after covariate shift?, TENT, discovering faster matrix mult, understanding DL still requires rethinking generalization, airgnn, the lottery ticket hypothesis
 
 
@@ -53,4 +53,6 @@ TODO add: convnext, knowledge distillation, lora, protoypical networks, ECE, the
 ### *Winning the Lottery Ahead of Time: Efficient Early Network Pruning*
 **Authors:** Ekdeep Singh Lubana, Robert P. Dick  
 **Subject:** Pruning  
-**Remark:** Dives into early network pruning using a gradient flow framework, borrowing concepts from the neural tangent kernel (NTK) to justify early parameter removal. It challenges the traditional pruning post-training by demonstrating that the NTK can guide the removal of redundant parameters even before substantial training, sparking fresh debates on when and how pruning should be optimally performed. -->
+**Remark:** Dives into early network pruning using a gradient flow framework, borrowing concepts from the neural tangent kernel (NTK) to justify early parameter removal. It challenges the traditional pruning post-training by demonstrating that the NTK can guide the removal of redundant parameters even before substantial training, sparking fresh debates on when and how pruning should be optimally performed.
+
+{% endcomment %}
