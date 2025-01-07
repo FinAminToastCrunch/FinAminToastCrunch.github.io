@@ -5,7 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **[Real-Time Vessel Segmentation for Ultra-Sound Guided Surgery](null)**
+1. **[Topology-Aware Deep Supervision for Axon Centerline Detection](null)**
+   - **Period**: Jan 2024 - March 2025
+   - **Status**: To appear at ISBI '25, submitted as <span style="color:red;">co-first author</span>. Supervised by MIT-LL, MBF Bioscience, and Univ. of Florida
+   - **Highlights**:
+     - Addressed the issue of limited annotations for axon centerline detection data in brain mapping.
+     - Improved performance over baseline despite using only 66% of the annotations.
+     - Maintained performance in a fully-annotated setting.
+
+
+2. **[Real-Time Vessel Segmentation for Ultra-Sound Guided Surgery](null)**
    - **Period**: Feb 2024 - November 2024
    - **Status**: Published as second author in High Performance Extreme Computing (HPEC '24). Supervised by MIT-LL
    - **Highlights**:
@@ -13,7 +22,7 @@ author_profile: true
      - Contributed to writing a custom application for evaluating performance on a mobile AI system.
      - Motivated the processing of tomographic segmentation algorithms from a discrete computer to a mobile AI system in the next generation of [AI Guide](https://www.ll.mit.edu/sites/default/files/other/doc/2023-02/TVO_Technology_Highlight_15_AIGUIDE.pdf).
 
-2. **[Large Reasoning Models for 3D Floorplanning in EDA](https://arxiv.org/pdf/2406.10538)**
+3. **[Large Reasoning Models for 3D Floorplanning in EDA](https://arxiv.org/pdf/2406.10538)**
    - **Period**: Aug 2023 - Ongoing
    - **Status**: Under review, submitted as <span style="color:red;">first author</span>. Supervised by Qualcomm Fellowship and Prof. Franzon
    - **Highlights**:
@@ -22,7 +31,7 @@ author_profile: true
      - Achieved improvements in sample efficiency and floorplan quality through training with non-expert trajectories.
      - Conducted comprehensive evaluations demonstrating advanced performance in wirelength reduction and multi-objective optimization.
 
-3. **[The Over-Certainty Phenomenon](https://arxiv.org/abs/2404.16168)**
+4. **[The Over-Certainty Phenomenon](https://arxiv.org/abs/2404.16168)**
    - **Period**: Sept 2022 – Ongoing
    - **Status**: Under review, submitted as <span style="color:red;">first author</span>, supervised by Prof. Jung-Eun Kim
    - **Highlights**:
@@ -30,7 +39,7 @@ author_profile: true
      - Identified key issues in state-of-the-art UDA algorithms that harm model calibration.
      - Retained comparable accuracy to SOTA.
 
-4. **[Can Low-Rank Knowledge Distillation be Useful for Microelectronic Reasoning?](https://arxiv.org/abs/2406.13808)**
+5. **[Can Low-Rank Knowledge Distillation be Useful for Microelectronic Reasoning?](https://arxiv.org/abs/2406.13808)**
    - **Period**: March 2024 - May 2024
    - **Status**: Published as <span style="color:red;">co-first author</span>, LLM-Aided Design (LAD '24)
    - **Highlights**:
@@ -39,7 +48,7 @@ author_profile: true
      - Introduced a novel LLM adaptation technique, low-rank knowledge distillation (LoRA-KD).
      - Released an evaluation benchmark to support future research.
 
-5. **[Optimal Brain Dissection](https://ieeexplore.ieee.org/document/10379275)**
+6. **[Optimal Brain Dissection](https://ieeexplore.ieee.org/document/10379275)**
    - **Period**: May 2022 – Aug 2023
    - **Status**: Published as <span style="color:red;">first author</span> in BioInspired Processing (BIP '23), supervised by Sozzani Lab and USDA
    - **Highlights**:
@@ -48,7 +57,7 @@ author_profile: true
      - Developed the dense autoencoder, a new architecture for reducing reconstruction error in -omics data.
      - Outperformed the *de facto* gene regulatory network in explaining gene expressions.
 
-6. **[DepthGraphNet](https://ieeexplore.ieee.org/abstract/document/10299839)**
+7. **[DepthGraphNet](https://ieeexplore.ieee.org/abstract/document/10299839)**
    - **Period**: Oct 2022 – July 2023
    - **Status**: Published as <span style="color:red;">first author</span> in Machine Learning for Computer Aided Design (MLCAD '23)
    - **Highlights**:
@@ -57,7 +66,7 @@ author_profile: true
      - Outperformed all other classical and neural methods in CGI detection accuracy.
      - Introduced theorems for the optimal architecture of GNNs for CGI detection.
 
-7. **[Network Inference Approach for Phosphoproteomics](https://link.springer.com/protocol/10.1007/978-1-0716-3327-4_27)**
+8. **[Network Inference Approach for Phosphoproteomics](https://link.springer.com/protocol/10.1007/978-1-0716-3327-4_27)**
    - **Period**: May 2022 – Nov 2022
    - **Status**: Published as second author in Methods in Molecular Biology (MIMB vol. 2690), supervised by Sozzani Lab
    - **Highlights**:

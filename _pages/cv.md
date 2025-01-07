@@ -5,4 +5,4 @@ permalink: /_pages/cv/
 author_profile: true
 ---
 
-[Download my resume (PDF)](https://finamintoastcrunch.github.io/assets/pdfs/Fin_CV_Short.pdf)
+[Download my resume (PDF)](https://finamintoastcrunch.github.io/assets/pdfs/Fin_CV_Medium.pdf)
