@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks and Teaching"
   #   url: /teaching/    
@@ -14,8 +14,8 @@ main:
   - title: "CV"
     url: /_pages/cv/
 
-  - title: "Legendary Papers"
-    url: /legendary-papers/
+  # - title: "Legendary Papers"
+  #   url: /legendary-papers/
 
   # - title: "Random"
   #   url: /random/
