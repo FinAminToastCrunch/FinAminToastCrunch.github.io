@@ -3,6 +3,7 @@ layout: archive
 title: "Legendary Papers"
 permalink: /legendary-papers/
 author_profile: true
+published: false
 ---
 
 
