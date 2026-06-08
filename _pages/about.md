@@ -13,11 +13,11 @@ Hi! I am Fin, a part-time PhD student at NC State under Prof. Paul Franzon that 
 
 In my spare time I really enjoy playing soccer. My full first name is "Shafin" which in Arabic means "medical doctor"... my parents really wanted me to be a physician. Also, I really like neurodivergent people; if you're someone that needs help navigating a life situation, please feel free to reach out! 
 
-```html
+
 <p style="color: red; font-weight: bold;">
   I am on the research scientist / postdoc job market and expect to defend my Ph.D. by the end of 2026. Please reach out for details! 
 </p>
-```
+
 
 I am still putting this page together so if you see any issues please email me :D 
 
